@@ -2,6 +2,8 @@
 
 This is a somewhat simple Go program that finds duplicate SQL queries in a given directory.
 
+This is still very much an "alpha" version and is not yet ready for production use.
+
 ## Usage
 
 ```bash
